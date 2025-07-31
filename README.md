@@ -1,4 +1,4 @@
-# 🎯 [ML] Which Banner Increases Subscription Conversion? – Ecommerce A/B Testing with Statistical Analysis
+# 🎯 [ML] Which Banner Increases Subscription Conversion? – Ecommerce A/B Testing
 
 <img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/afabc36e-cba5-4fb2-bdd6-e01101c0b8df" />
 
